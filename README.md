@@ -6,7 +6,7 @@ Predicts airline passenger satisfaction so a CX team can prioritise
 service improvements. Built across four sprints.
 
 ## Dashboard
-(add Streamlit Cloud URL here after deploying)
+([add Streamlit Cloud URL here after deploying](https://prahvinahshri-ads-pma1-dashboardapp-ihbpyb.streamlit.app/))
 
 ## Structure
 - notebooks/ADS_PMA1.ipynb — EDA, quality checks, models
